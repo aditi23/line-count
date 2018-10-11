@@ -9,5 +9,5 @@ Build : go build
 ```
 
 ```sh
-Run: ./line-count -path="folder/file path"
+Run: ./line-count -path="folder/file_path"
 ```
