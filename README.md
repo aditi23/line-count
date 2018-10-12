@@ -3,7 +3,7 @@
 Service to count the number of lines in the provided folder/file
 
 ```sh
-Build: go build
+Build:- go build
 ```
 
 ```sh
