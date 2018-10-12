@@ -5,7 +5,7 @@
 Service to count the number of lines in the provided folder/file
 
 ```sh
-Build command is :- go build
+Build command for repo is :- go build
 ```
 
 ```sh
