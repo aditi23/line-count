@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
-func testing() {
+func testing() string {
 	fmt.Println("Testing")
+	return "testing"
 }
