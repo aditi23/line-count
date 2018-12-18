@@ -47,4 +47,5 @@ func main() {
 		count = count + finalCount
 	}
 	fmt.Println("Total Line Count: ", count)
+	fmt.Println("Testing goreport branch issue")
 }
